@@ -28,7 +28,7 @@
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
 \colorlet{awesome}{awesome-darknight}
 % Uncomment if you would like to specify your own color
-% \definecolor{awesome}{HTML}{CA63A8}
+% \definecolor{awesome}{HTML}{3E6D9C}
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -50,13 +50,14 @@
 %	Comment any of the lines below if they are not required
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
-% \photo{./examples/profile.png}
+% \photo[rectangle,edge,right]{./examples/profile}
 \name{David}{Cettolo}
 %\position{Site Reliability Engineer{\enskip\cdotp\enskip}Software Architect}
-%\address{235, World Cup buk-ro, Mapo-gu, Seoul, 03936, Republic of Korea}
+\position{Software Engineer}
+%\address{Malchina 47/e, Duino-Aurisina, 34011, Trieste, Italy}
 
-\mobile{(+39) 345 0467163}
-\email{david.cettolo@gmail.com}
+\mobile{(+39) 345 0467163} %insert the number before pdf generation
+\email{david.cettolo@gmail.com} %insert the mail before pdf generation
 %\dateofbirth{January 1st, 1970}
 \linkedin{davidcettolo}
 \github{davidCett}
@@ -66,7 +67,7 @@
 % \twitter{@twit}
 % \skype{skype-id}
 % \reddit{reddit-id}
-% \medium{medium-id}
+% \medium{madium-id}
 % \kaggle{kaggle-id}
 % \hackerrank{hackerrank-id}
 % \googlescholar{googlescholar-id}{name-to-display}
@@ -82,13 +83,13 @@
 
 % Print the header with above personal information
 % Give optional argument to change alignment(C: center, L: left, R: right)
-\makecvheader
+\makecvheader[C]
 
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
   {\today}
-  {David Cettolo~~~·~~~Curriculum Vitae}
+  {David Cettolo~~~·~~~Résumé}
   {\thepage}
 
 
@@ -96,12 +97,10 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-\input{../templates/cv/eng/experience.tex}
-\input{../templates/cv/eng/skills.tex}
-\input{../templates/cv/eng/education.tex}
-
-
-
+\input{../templates/resume/it/summary.tex}
+\input{../templates/resume/it/experience.tex}
+\input{../templates/resume/it/skills.tex}
+\input{../templates/resume/it/education.tex}
 
 %-------------------------------------------------------------------------------
 \end{document}
