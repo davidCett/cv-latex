@@ -1,16 +1,15 @@
 # Fdb version 4
-["xdvipdfmx"] 1707762943 "resume.xdv" "resume.pdf" "resume" 1707762945 0
-  "resume.xdv" 1707762943 35636 a4632abed203344ff97d594df285e6d4 "xelatex"
+["xdvipdfmx"] 1707764633 "cv.xdv" "cv.pdf" "cv" 1707764635 0
+  "cv.xdv" 1707764633 29700 8c7355bf81d51b16198e8824a9950ecc "xelatex"
   (generated)
-  "resume.pdf"
+  "cv.pdf"
   (rewritten before read)
-["xelatex"] 1707762937 "c:/Users/david/Projects/cv-latex/resume/resume.tex" "resume.xdv" "resume" 1707762945 0
+["xelatex"] 1707764628 "c:/Users/david/Projects/cv-latex/cv/cv.tex" "cv.xdv" "cv" 1707764635 0
   "../templates/awesome-cv.cls" 1705957451 30399 65ee1e939e3f753f2b881c8daf6b9092 ""
-  "../templates/resume/education.tex" 1706438865 1248 057657d37043323bd53442a9bf33b00b ""
-  "../templates/resume/experience.tex" 1706293657 2820 63f636b7b645619b84f698f9df0d7ca9 ""
-  "../templates/resume/skills.tex" 1705956080 1007 50eaf83e1c83d593cffa7ef5b99586ca ""
-  "../templates/resume/summary.tex" 1706207872 982 6466a416d23bdff6a063a2247adc0aa9 ""
-  "c:/Users/david/Projects/cv-latex/resume/resume.tex" 1707762936 3837 5ff5a6e8e75f76b784bd87e9da8a2970 ""
+  "../templates/cv/education.tex" 1707764626 1178 6ebaa082101a09b182b9591de01a1b20 ""
+  "../templates/cv/experience.tex" 1706293657 2820 63f636b7b645619b84f698f9df0d7ca9 ""
+  "../templates/cv/skills.tex" 1705956080 1007 50eaf83e1c83d593cffa7ef5b99586ca ""
+  "c:/Users/david/Projects/cv-latex/cv/cv.tex" 1707764437 3678 c29a1c55c6bf7ea75c9e171512dc0314 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1695716908 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1695727812 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1695714167 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -178,10 +177,10 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1695711412 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1695729399 10809857 6128ff3bfae7e0bd628a1ee64a8d0de1 ""
   "c:/texlive/2023/texmf.cnf" 1695729112 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1707762943 464 4a44ff79e847885633a5b1d8ff00c655 "xelatex"
-  "resume.tex" 1707762936 3837 5ff5a6e8e75f76b784bd87e9da8a2970 ""
+  "cv.aux" 1707764633 464 4a44ff79e847885633a5b1d8ff00c655 "xelatex"
+  "cv.tex" 1707764437 3678 c29a1c55c6bf7ea75c9e171512dc0314 ""
   (generated)
-  "resume.aux"
-  "resume.log"
-  "resume.xdv"
+  "cv.aux"
+  "cv.log"
+  "cv.xdv"
   (rewritten before read)
